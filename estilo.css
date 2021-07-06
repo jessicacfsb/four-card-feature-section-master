@@ -1,0 +1,35 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Poppins';
+	font-size: 15px;
+	width: 1440px;
+}
+
+.container{
+
+}
+
+.section1{
+	display: block;
+	flex-direction: column;
+	height: 250px;
+	width: 500px;
+	text-align: center;
+}
+
+h1{
+	line-height: 0.9;
+}
+
+h1 span{
+	font-weight: 200;
+	color: hsl(229, 6%, 66%);
+}
+
+p{
+	color: hsl(229, 6%, 66%);
+}
+/*---------------------------------------------------*/
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
